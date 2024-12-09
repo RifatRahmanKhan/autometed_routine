@@ -1,0 +1,178 @@
+[
+  {
+    "course_code": "CS-501",
+    "title": "Introduction to Algorithms",
+    "section": 1,
+    "instructor": "INS-1",
+    "day": "Monday",
+    "time_start": "10:00",
+    "time_end": "11:30",
+    "area": "Algorithms",
+    "description": "This course introduces foundational algorithms essential for problem-solving in computer science. Topics include sorting, searching, dynamic programming, and graph traversal. The course emphasizes algorithm analysis and optimization techniques."
+  },
+  {
+    "course_code": "CS-501",
+    "title": "Introduction to Algorithms",
+    "section": 2,
+    "instructor": "INS-2",
+    "day": "Wednesday",
+    "time_start": "14:00",
+    "time_end": "15:30",
+    "area": "Algorithms",
+    "description": "This course introduces foundational algorithms essential for problem-solving in computer science. Topics include sorting, searching, dynamic programming, and graph traversal. The course emphasizes algorithm analysis and optimization techniques."
+  },
+  {
+    "course_code": "CS-502",
+    "title": "Fundamentals of Machine Learning",
+    "section": 1,
+    "instructor": "INS-3",
+    "day": "Tuesday",
+    "time_start": "12:00",
+    "time_end": "13:30",
+    "area": "Machine Learning",
+    "description": "This course covers core concepts in supervised and unsupervised learning. Students will learn about regression, classification, and clustering techniques. Practical exercises include implementing algorithms using Python and popular libraries."
+  },
+  {
+    "course_code": "CS-502",
+    "title": "Fundamentals of Machine Learning",
+    "section": 2,
+    "instructor": "INS-4",
+    "day": "Thursday",
+    "time_start": "09:00",
+    "time_end": "10:30",
+    "area": "Machine Learning",
+    "description": "This course covers core concepts in supervised and unsupervised learning. Students will learn about regression, classification, and clustering techniques. Practical exercises include implementing algorithms using Python and popular libraries."
+  },
+  {
+    "course_code": "CS-503",
+    "title": "Introduction to Databases",
+    "section": 1,
+    "instructor": "INS-5",
+    "day": "Monday",
+    "time_start": "16:00",
+    "time_end": "17:30",
+    "area": "Databases",
+    "description": "Explore the foundations of database systems, including relational models and SQL. Topics cover database design, indexing, and transactions. Practical applications include designing and querying relational databases."
+  },
+  {
+    "course_code": "CS-503",
+    "title": "Introduction to Databases",
+    "section": 2,
+    "instructor": "INS-6",
+    "day": "Wednesday",
+    "time_start": "11:00",
+    "time_end": "12:30",
+    "area": "Databases",
+    "description": "Explore the foundations of database systems, including relational models and SQL. Topics cover database design, indexing, and transactions. Practical applications include designing and querying relational databases."
+  },
+  {
+    "course_code": "CS-504",
+    "title": "Software Engineering Principles",
+    "section": 1,
+    "instructor": "INS-7",
+    "day": "Tuesday",
+    "time_start": "15:00",
+    "time_end": "16:30",
+    "area": "Software Engineering",
+    "description": "Learn the principles and methodologies of software development. Topics include software lifecycle, design patterns, and testing strategies. Students will work on projects to apply their knowledge in real-world scenarios."
+  },
+  {
+    "course_code": "CS-504",
+    "title": "Software Engineering Principles",
+    "section": 2,
+    "instructor": "INS-8",
+    "day": "Friday",
+    "time_start": "10:00",
+    "time_end": "11:30",
+    "area": "Software Engineering",
+    "description": "Learn the principles and methodologies of software development. Topics include software lifecycle, design patterns, and testing strategies. Students will work on projects to apply their knowledge in real-world scenarios."
+  },
+  {
+    "course_code": "CS-505",
+    "title": "Computer Networks Basics",
+    "section": 1,
+    "instructor": "INS-9",
+    "day": "Monday",
+    "time_start": "09:00",
+    "time_end": "10:30",
+    "area": "Computer Networks",
+    "description": "This course introduces networking concepts, including network protocols, architecture, and communication. Learn about TCP/IP, routing, and switching. Practical exercises involve configuring and analyzing network systems."
+  },
+  {
+    "course_code": "CS-505",
+    "title": "Computer Networks Basics",
+    "section": 2,
+    "instructor": "INS-10",
+    "day": "Thursday",
+    "time_start": "13:00",
+    "time_end": "14:30",
+    "area": "Computer Networks",
+    "description": "This course introduces networking concepts, including network protocols, architecture, and communication. Learn about TCP/IP, routing, and switching. Practical exercises involve configuring and analyzing network systems."
+  },
+  {
+    "course_code": "CS-506",
+    "title": "Foundations of Cybersecurity",
+    "section": 1,
+    "instructor": "INS-11",
+    "day": "Wednesday",
+    "time_start": "10:00",
+    "time_end": "11:30",
+    "area": "Cybersecurity",
+    "description": "This course covers cybersecurity principles, threats, and defense mechanisms. Topics include cryptography, network security, and risk management. Students will engage in practical exercises to enhance security awareness."
+  },
+  {
+    "course_code": "CS-506",
+    "title": "Foundations of Cybersecurity",
+    "section": 2,
+    "instructor": "INS-12",
+    "day": "Friday",
+    "time_start": "14:00",
+    "time_end": "15:30",
+    "area": "Cybersecurity",
+    "description": "This course covers cybersecurity principles, threats, and defense mechanisms. Topics include cryptography, network security, and risk management. Students will engage in practical exercises to enhance security awareness."
+  },
+  {
+    "course_code": "CS-507",
+    "title": "Introduction to Artificial Intelligence",
+    "section": 1,
+    "instructor": "INS-13",
+    "day": "Tuesday",
+    "time_start": "10:00",
+    "time_end": "11:30",
+    "area": "Artificial Intelligence",
+    "description": "An introduction to AI concepts, including search algorithms, reasoning, and knowledge representation. Explore applications in computer vision and natural language processing. Learn the basics of building intelligent systems."
+  },
+  {
+    "course_code": "CS-507",
+    "title": "Introduction to Artificial Intelligence",
+    "section": 2,
+    "instructor": "INS-14",
+    "day": "Thursday",
+    "time_start": "16:00",
+    "time_end": "17:30",
+    "area": "Artificial Intelligence",
+    "description": "An introduction to AI concepts, including search algorithms, reasoning, and knowledge representation. Explore applications in computer vision and natural language processing. Learn the basics of building intelligent systems."
+  },
+  {
+    "course_code": "CS-508",
+    "title": "Operating Systems Fundamentals",
+    "section": 1,
+    "instructor": "INS-15",
+    "day": "Monday",
+    "time_start": "14:00",
+    "time_end": "15:30",
+    "area": "Operating Systems",
+    "description": "Discover the fundamentals of operating systems, including process management, memory, and file systems. Explore multitasking, synchronization, and system design. Hands-on exercises involve simulating OS components."
+  },
+  {
+    "course_code": "CS-508",
+    "title": "Operating Systems Fundamentals",
+    "section": 2,
+    "instructor": "INS-16",
+    "day": "Wednesday",
+    "time_start": "16:00",
+    "time_end": "17:30",
+    "area": "Operating Systems",
+    "description": "Discover the fundamentals of operating systems, including process management, memory, and file systems. Explore multitasking, synchronization, and system design. Hands-on exercises involve simulating OS components."
+  }
+]

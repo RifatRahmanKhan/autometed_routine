@@ -1,0 +1,178 @@
+[
+  {
+    "course_code": "CS-601",
+    "title": "Advanced Data Structures",
+    "section": 1,
+    "instructor": "INS-17",
+    "day": "Monday",
+    "time_start": "09:30",
+    "time_end": "11:00",
+    "area": "Data Structures",
+    "description": "This course delves into complex data structures, including heaps, trees, and graphs. Emphasis is on their implementation and optimization. Real-world applications are explored through hands-on projects."
+  },
+  {
+    "course_code": "CS-601",
+    "title": "Advanced Data Structures",
+    "section": 2,
+    "instructor": "INS-18",
+    "day": "Thursday",
+    "time_start": "14:00",
+    "time_end": "15:30",
+    "area": "Data Structures",
+    "description": "This course delves into complex data structures, including heaps, trees, and graphs. Emphasis is on their implementation and optimization. Real-world applications are explored through hands-on projects."
+  },
+  {
+    "course_code": "CS-602",
+    "title": "Introduction to Cloud Computing",
+    "section": 1,
+    "instructor": "INS-19",
+    "day": "Tuesday",
+    "time_start": "10:00",
+    "time_end": "11:30",
+    "area": "Cloud Computing",
+    "description": "Learn the basics of cloud computing, including IaaS, PaaS, and SaaS. The course introduces major cloud providers like AWS and Azure. Students will build scalable applications using cloud technologies."
+  },
+  {
+    "course_code": "CS-602",
+    "title": "Introduction to Cloud Computing",
+    "section": 2,
+    "instructor": "INS-20",
+    "day": "Friday",
+    "time_start": "15:00",
+    "time_end": "16:30",
+    "area": "Cloud Computing",
+    "description": "Learn the basics of cloud computing, including IaaS, PaaS, and SaaS. The course introduces major cloud providers like AWS and Azure. Students will build scalable applications using cloud technologies."
+  },
+  {
+    "course_code": "CS-603",
+    "title": "Human-Computer Interaction",
+    "section": 1,
+    "instructor": "INS-21",
+    "day": "Wednesday",
+    "time_start": "13:00",
+    "time_end": "14:30",
+    "area": "Human-Computer Interaction",
+    "description": "Explore the principles of HCI, focusing on user-centered design and usability. Topics include accessibility and interaction models. Students will design interfaces using state-of-the-art tools."
+  },
+  {
+    "course_code": "CS-603",
+    "title": "Human-Computer Interaction",
+    "section": 2,
+    "instructor": "INS-22",
+    "day": "Monday",
+    "time_start": "16:00",
+    "time_end": "17:30",
+    "area": "Human-Computer Interaction",
+    "description": "Explore the principles of HCI, focusing on user-centered design and usability. Topics include accessibility and interaction models. Students will design interfaces using state-of-the-art tools."
+  },
+  {
+    "course_code": "CS-604",
+    "title": "Parallel and Distributed Systems",
+    "section": 1,
+    "instructor": "INS-23",
+    "day": "Tuesday",
+    "time_start": "14:00",
+    "time_end": "15:30",
+    "area": "Distributed Systems",
+    "description": "Learn the foundations of parallel and distributed computing. Topics include message-passing, multithreading, and system synchronization. Students will work on projects using distributed algorithms."
+  },
+  {
+    "course_code": "CS-604",
+    "title": "Parallel and Distributed Systems",
+    "section": 2,
+    "instructor": "INS-24",
+    "day": "Friday",
+    "time_start": "10:00",
+    "time_end": "11:30",
+    "area": "Distributed Systems",
+    "description": "Learn the foundations of parallel and distributed computing. Topics include message-passing, multithreading, and system synchronization. Students will work on projects using distributed algorithms."
+  },
+  {
+    "course_code": "CS-605",
+    "title": "Game Development Basics",
+    "section": 1,
+    "instructor": "INS-25",
+    "day": "Wednesday",
+    "time_start": "09:00",
+    "time_end": "10:30",
+    "area": "Game Development",
+    "description": "An introduction to game development, covering game design, mechanics, and physics. Students will create simple games using popular frameworks. Emphasis is on creativity and interactive storytelling."
+  },
+  {
+    "course_code": "CS-605",
+    "title": "Game Development Basics",
+    "section": 2,
+    "instructor": "INS-26",
+    "day": "Thursday",
+    "time_start": "11:00",
+    "time_end": "12:30",
+    "area": "Game Development",
+    "description": "An introduction to game development, covering game design, mechanics, and physics. Students will create simple games using popular frameworks. Emphasis is on creativity and interactive storytelling."
+  },
+  {
+    "course_code": "CS-606",
+    "title": "Advanced Cybersecurity",
+    "section": 1,
+    "instructor": "INS-27",
+    "day": "Monday",
+    "time_start": "14:00",
+    "time_end": "15:30",
+    "area": "Cybersecurity",
+    "description": "Delve deeper into cybersecurity concepts, including penetration testing and ethical hacking. Topics include advanced cryptography and malware analysis. Students will work on real-world security challenges."
+  },
+  {
+    "course_code": "CS-606",
+    "title": "Advanced Cybersecurity",
+    "section": 2,
+    "instructor": "INS-28",
+    "day": "Friday",
+    "time_start": "13:00",
+    "time_end": "14:30",
+    "area": "Cybersecurity",
+    "description": "Delve deeper into cybersecurity concepts, including penetration testing and ethical hacking. Topics include advanced cryptography and malware analysis. Students will work on real-world security challenges."
+  },
+  {
+    "course_code": "CS-607",
+    "title": "Natural Language Processing",
+    "section": 1,
+    "instructor": "INS-29",
+    "day": "Tuesday",
+    "time_start": "16:00",
+    "time_end": "17:30",
+    "area": "Artificial Intelligence",
+    "description": "An introduction to NLP techniques, including text processing and language models. Topics cover sentiment analysis, machine translation, and chatbot development. Students will implement NLP algorithms in Python."
+  },
+  {
+    "course_code": "CS-607",
+    "title": "Natural Language Processing",
+    "section": 2,
+    "instructor": "INS-30",
+    "day": "Thursday",
+    "time_start": "10:00",
+    "time_end": "11:30",
+    "area": "Artificial Intelligence",
+    "description": "An introduction to NLP techniques, including text processing and language models. Topics cover sentiment analysis, machine translation, and chatbot development. Students will implement NLP algorithms in Python."
+  },
+  {
+    "course_code": "CS-608",
+    "title": "IoT Systems and Applications",
+    "section": 1,
+    "instructor": "INS-31",
+    "day": "Wednesday",
+    "time_start": "14:00",
+    "time_end": "15:30",
+    "area": "IoT",
+    "description": "Explore the principles of IoT, including sensors, actuators, and edge computing. Students will design IoT solutions for smart homes and cities. The course emphasizes hardware integration and real-world applications."
+  },
+  {
+    "course_code": "CS-608",
+    "title": "IoT Systems and Applications",
+    "section": 2,
+    "instructor": "INS-32",
+    "day": "Friday",
+    "time_start": "09:00",
+    "time_end": "10:30",
+    "area": "IoT",
+    "description": "Explore the principles of IoT, including sensors, actuators, and edge computing. Students will design IoT solutions for smart homes and cities. The course emphasizes hardware integration and real-world applications."
+  }
+]
